@@ -1,0 +1,29 @@
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.pytest_cache/
+
+# Logs
+logs/*.log
+*.log
+
+# Temp/Output files
+tests_report.txt
+tests_report_utf8.txt
+tests_final_report.txt
+tests_final_report_utf8.txt
+tests_output.txt
+tests_output_utf8.txt
+tests_output_final.txt
+demo_output.txt
+
+# OS
+.DS_Store
+Thumbs.db
